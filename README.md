@@ -16,7 +16,7 @@ Made by me, with most of the code written by AI: **Claude Opus 5.5** (Anthropic)
 4. Play in mGBA (or any GBA emulator) at normal speed.
 
 ## What's in it
-- **Real-time battles everywhere.** Wild Pokémon, trainers, gyms, Elite Four. Gyms, the Elite Four and the Champion have their own arenas with cover, hazards and breakable trees. The legendaries (Articuno, Zapdos, Moltres, Mewtwo, Lugia, Ho-Oh, Deoxys) get boss arenas with a second phase at half HP.
+- **Real-time battles everywhere.** Wild Pokémon, trainers, gyms, Elite Four, legendaries. Every fight happens right on the map where you are.
 - **Pokémon Mystery Dungeon sprites.** Pokémon walk, attack, get hit and sleep with PMD animations, in 8 directions.
 - **PMD move animations.** Every FireRed move has an attack effect from Mystery Dungeon.
 - **Follower.** Your lead Pokémon walks behind you.
@@ -41,7 +41,7 @@ Fly: normal FireRed Fly. Arrow keys to pick, A (X) to go, B (Z) to back out.
 
 ## Why some files are missing (and how to get them)
 
-I can't publish everything. The Pokémon and attack sprites come from **Pokémon Mystery Dungeon: Red Rescue Team**. That art belongs to Nintendo / Spike Chunsoft, so it is **not in this repo**. Same goes for ROMs: none are included, and I won't share them.
+I can't publish everything. The Pokémon and attack sprites in the game come from **Pokémon Mystery Dungeon: Red Rescue Team** (GBA). **Explorers of Sky** (DS) was used to pick which body animation goes with each move; that's just a lookup table in `tools/pmd/`, no Sky art is in the game. All that art belongs to Nintendo / Spike Chunsoft, so it is **not in this repo**. Same goes for ROMs: none are included, and I won't share them.
 
 What *is* here is all the code, plus the tools that pull the art out of **your own** PMD Red ROM. So you can rebuild the exact same game yourself:
 
@@ -79,7 +79,7 @@ You don't have to take the whole hack. Grab the parts you want and put them in y
 | AI difficulty option | `src/option_menu.c`, `src/realtime_ai.inc.c` |
 | Optional playtest menu ("GOD MODE") | `src/god_mode.c`, off by default (build flag `PLAYTEST_TOOLS=1`) |
 
-My own code here is free to use, change and share. Credit is appreciated but not required. The pret decompilation and all Pokémon content keep their original owners' terms.
+"My" code here is free to use, change and share. Credit is appreciated but not required. The pret decompilation and all Pokémon content keep their original owners' terms.
 
 ## About this version
 This is just a version for now. It's the normal Kanto + Sevii map. An older build had a massive extra world, but it took up all the GBA space, so I cut it. I'm using this version to test and polish the features while the game stays fully playable. If I find the time, there might be an extended version later.
