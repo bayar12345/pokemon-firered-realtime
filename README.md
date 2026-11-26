@@ -11,7 +11,7 @@ Made by me, with most of the code written by AI: **Claude Opus 5.5** (Anthropic)
 ## Just want to play?
 1. Get a clean **Pokémon FireRed (USA) v1.0** ROM that you dumped yourself.
    SHA-1: `41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc`
-2. Download the `.bps` patch from [Releases](../../releases).
+2. Download the patch: [patch/FireRed-Realtime-v3.bps](patch/FireRed-Realtime-v3.bps) (click it, then the download button).
 3. Patch it with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS.
 4. Play in mGBA (or any GBA emulator) at normal speed.
 
