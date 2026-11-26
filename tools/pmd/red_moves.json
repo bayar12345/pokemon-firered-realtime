@@ -1,0 +1,7917 @@
+{
+ "NOTHING": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "IRON_TAIL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "ICE_BALL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 24,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 5
+   },
+   {
+    "effect_entry": 23,
+    "kind": "effect_sprite",
+    "effect_file": 21,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "YAWN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 25,
+    "kind": "effect_sprite",
+    "effect_file": 102,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "LOVELY_KISS": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 26,
+    "kind": "effect_sprite",
+    "effect_file": 102,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "NIGHTMARE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 1,
+    "kind": "effect_sprite",
+    "effect_file": 102,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "MORNING_SUN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 27,
+    "kind": "effect_sprite",
+    "effect_file": 113,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "VITAL_THROW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "DIG": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 3,
+    "kind": "effect_sprite",
+    "effect_file": 2,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "THRASH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 6,
+    "kind": "effect_sprite",
+    "effect_file": 8,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SWEET_SCENT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 12,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "CHARM": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 15,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "RAIN_DANCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "CONFUSE_RAY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 17,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "HAIL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "AROMATHERAPY": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 18,
+    "kind": "effect_sprite",
+    "effect_file": 33,
+    "anim_in_file": 0
+   },
+   null,
+   {
+    "effect_entry": 19,
+    "kind": "effect_sprite",
+    "effect_file": 33,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "BUBBLE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 29,
+    "kind": "effect_sprite",
+    "effect_file": 102,
+    "anim_in_file": 4
+   },
+   {
+    "effect_entry": 28,
+    "kind": "effect_sprite",
+    "effect_file": 102,
+    "anim_in_file": 3
+   }
+  ]
+ },
+ "ENCORE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 30,
+    "kind": "effect_sprite",
+    "effect_file": 25,
+    "anim_in_file": 0
+   },
+   null,
+   {
+    "effect_entry": 31,
+    "kind": "effect_sprite",
+    "effect_file": 25,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "CUT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 355,
+    "kind": "effect_sprite",
+    "effect_file": 100,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "RAGE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 6,
+    "kind": "effect_sprite",
+    "effect_file": 8,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SUPER_FANG": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 49,
+    "kind": "effect_sprite",
+    "effect_file": 26,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "PAIN_SPLIT": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "TORMENT": {
+  "body_anim": 2,
+  "body_anim_name": "Strike",
+  "effects": [
+   null,
+   {
+    "effect_entry": 43,
+    "kind": "effect_sprite",
+    "effect_file": 33,
+    "anim_in_file": 2
+   },
+   {
+    "effect_entry": 39,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "STRING_SHOT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 44,
+    "kind": "effect_sprite",
+    "effect_file": 134,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 46,
+    "kind": "effect_sprite",
+    "effect_file": 134,
+    "anim_in_file": 2
+   },
+   {
+    "effect_entry": 45,
+    "kind": "effect_sprite",
+    "effect_file": 134,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "SWAGGER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 6,
+    "kind": "effect_sprite",
+    "effect_file": 8,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SNORE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 51,
+    "kind": "effect_sprite",
+    "effect_file": 104,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "HEAL_BELL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 50,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SCREECH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 52,
+    "kind": "effect_sprite",
+    "effect_file": 81,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "ROCK_THROW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 53,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "ROCK_SMASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "ROCK_SLIDE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 55,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "WEATHER_BALL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 56,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "WHIRLPOOL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 59,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 21
+   },
+   null
+  ]
+ },
+ "FAKE_TEARS": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 62,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "SING": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 60,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 61,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "SPITE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 63,
+    "kind": "effect_sprite",
+    "effect_file": 46,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "AIR_CUTTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 64,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "SMOKESCREEN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 65,
+    "kind": "effect_sprite",
+    "effect_file": 56,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "PURSUIT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 321,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "DOUBLESLAP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "MIRROR_MOVE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 319,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "OVERHEAT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 67,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 66,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "AURORA_BEAM": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 318,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 68,
+    "kind": "effect_sprite",
+    "effect_file": 3,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "MEMENTO": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "OCTAZOOKA": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 65,
+    "kind": "effect_sprite",
+    "effect_file": 56,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 69,
+    "kind": "effect_sprite",
+    "effect_file": 56,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "FLATTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 70,
+    "kind": "effect_sprite",
+    "effect_file": 57,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "ASTONISH": {
+  "body_anim": 22,
+  "body_anim_name": "Species anim 22",
+  "effects": [
+   null,
+   {
+    "effect_entry": 72,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 22
+   },
+   {
+    "effect_entry": 71,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 5
+   },
+   null
+  ]
+ },
+ "WILL_O_WISP": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 76,
+    "kind": "effect_sprite",
+    "effect_file": 29,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 73,
+    "kind": "effect_sprite",
+    "effect_file": 29,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "RETURN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "GRUDGE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 75,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "STRENGTH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "COUNTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 321,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "FLAME_WHEEL": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 77,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 4
+   },
+   {
+    "effect_entry": 74,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 3
+   },
+   {
+    "effect_entry": 78,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "FLAMETHROWER": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 74,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 3
+   },
+   {
+    "effect_entry": 79,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 5
+   }
+  ]
+ },
+ "ODOR_SLEUTH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 80,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SHARPEN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 82,
+    "kind": "effect_sprite",
+    "effect_file": 14,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "DOUBLE_TEAM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 232,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null,
+   null
+  ]
+ },
+ "GUST": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 83,
+    "kind": "effect_sprite",
+    "effect_file": 135,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "HARDEN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 84,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "DISABLE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 85,
+    "kind": "effect_sprite",
+    "effect_file": 113,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 434,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null
+  ]
+ },
+ "RAZOR_WIND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 83,
+    "kind": "effect_sprite",
+    "effect_file": 135,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "BIDE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 87,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "CRUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 95,
+    "kind": "effect_sprite",
+    "effect_file": 122,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "BITE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 96,
+    "kind": "effect_sprite",
+    "effect_file": 122,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "THUNDER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 113,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "THUNDERPUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 114,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "ENDEAVOR": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 62,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 2
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "FACADE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 62,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "KARATE_CHOP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 116,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "CLAMP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 117,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 3
+   },
+   null
+  ]
+ },
+ "WITHDRAW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "CONSTRICT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 126,
+    "kind": "effect_sprite",
+    "effect_file": 85,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BRICK_BREAK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 127,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 4
+   },
+   null
+  ]
+ },
+ "ROCK_TOMB": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 115,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 7
+   },
+   null
+  ]
+ },
+ "FOCUS_ENERGY": {
+  "body_anim": 23,
+  "body_anim_name": "Species anim 23",
+  "effects": [
+   null,
+   {
+    "effect_entry": 130,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 23
+   },
+   null,
+   null
+  ]
+ },
+ "FOCUS_PUNCH": {
+  "body_anim": 23,
+  "body_anim_name": "Species anim 23",
+  "effects": [
+   null,
+   {
+    "effect_entry": 130,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 23
+   },
+   null,
+   null
+  ]
+ },
+ "GIGA_DRAIN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 128,
+    "kind": "effect_sprite",
+    "effect_file": 23,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "REVERSAL": {
+  "body_anim": 24,
+  "body_anim_name": "Species anim 24",
+  "effects": [
+   null,
+   {
+    "effect_entry": 129,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 24
+   },
+   null,
+   null
+  ]
+ },
+ "SMELLINGSALT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 118,
+    "kind": "effect_sprite",
+    "effect_file": 25,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "SPORE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 157,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 25
+   },
+   null,
+   null
+  ]
+ },
+ "LEECH_LIFE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 158,
+    "kind": "effect_sprite",
+    "effect_file": 23,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "SLASH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 159,
+    "kind": "effect_sprite",
+    "effect_file": 101,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SILVER_WIND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 282,
+    "kind": "effect_sprite",
+    "effect_file": 44,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "METAL_SOUND": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 251,
+    "kind": "effect_sprite",
+    "effect_file": 60,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "GRASSWHISTLE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 195,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 3
+   }
+  ]
+ },
+ "TICKLE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 196,
+    "kind": "effect_sprite",
+    "effect_file": 122,
+    "anim_in_file": 16
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SPIDER_WEB": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 44,
+    "kind": "effect_sprite",
+    "effect_file": 134,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 46,
+    "kind": "effect_sprite",
+    "effect_file": 134,
+    "anim_in_file": 2
+   },
+   {
+    "effect_entry": 45,
+    "kind": "effect_sprite",
+    "effect_file": 134,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "CRABHAMMER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 197,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 26
+   },
+   null
+  ]
+ },
+ "HAZE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 200,
+    "kind": "effect_sprite_alt",
+    "effect_file": 0,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "MEAN_LOOK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 254,
+    "kind": "effect_sprite",
+    "effect_file": 65,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "CROSS_CHOP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 240,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 6
+   },
+   null
+  ]
+ },
+ "OUTRAGE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 6,
+    "kind": "effect_sprite",
+    "effect_file": 8,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "LOW_KICK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "ANCIENTPOWER": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 201,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 8
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SYNTHESIS": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 271,
+    "kind": "effect_sprite",
+    "effect_file": 125,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "AGILITY": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 80,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "RAPID_SPIN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 83,
+    "kind": "effect_sprite",
+    "effect_file": 135,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "ICY_WIND": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 252,
+    "kind": "effect_sprite",
+    "effect_file": 61,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "MIND_READER": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 5,
+    "kind": "effect_sprite",
+    "effect_file": 113,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "COSMIC_POWER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 219,
+    "kind": "effect_sprite_alt",
+    "effect_file": 1,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 221,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 27
+   },
+   null
+  ]
+ },
+ "SKY_ATTACK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 351,
+    "kind": "effect_sprite",
+    "effect_file": 87,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "POWDER_SNOW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 223,
+    "kind": "effect_sprite_alt",
+    "effect_file": 7,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "FOLLOW_ME": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 206,
+    "kind": "effect_sprite",
+    "effect_file": 63,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "METEOR_MASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 253,
+    "kind": "effect_sprite",
+    "effect_file": 62,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "ENDURE": {
+  "body_anim": 23,
+  "body_anim_name": "Species anim 23",
+  "effects": [
+   null,
+   {
+    "effect_entry": 130,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 23
+   },
+   null,
+   null
+  ]
+ },
+ "ROLLOUT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 415,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SCARY_FACE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 208,
+    "kind": "effect_sprite",
+    "effect_file": 64,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "PSYBEAM": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 220,
+    "kind": "effect_sprite",
+    "effect_file": 81,
+    "anim_in_file": 8
+   }
+  ]
+ },
+ "PSYWAVE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 224,
+    "kind": "effect_sprite",
+    "effect_file": 81,
+    "anim_in_file": 16
+   }
+  ]
+ },
+ "PSYCHIC": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "PSYCHO_BOOST": {
+  "body_anim": 19,
+  "body_anim_name": "Species anim 19",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 226,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 19
+   },
+   null,
+   null
+  ]
+ },
+ "HYPNOSIS": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 225,
+    "kind": "effect_sprite",
+    "effect_file": 81,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "UPROAR": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 255,
+    "kind": "effect_sprite",
+    "effect_file": 91,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "WATER_SPOUT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 260,
+    "kind": "effect_sprite",
+    "effect_file": 96,
+    "anim_in_file": 0
+   },
+   null,
+   {
+    "effect_entry": 261,
+    "kind": "effect_sprite",
+    "effect_file": 96,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "SIGNAL_BEAM": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 209,
+    "kind": "effect_sprite",
+    "effect_file": 94,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "PSYCH_UP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 205,
+    "kind": "effect_sprite",
+    "effect_file": 58,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SUBMISSION": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "RECOVER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 221,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 27
+   },
+   null
+  ]
+ },
+ "EARTHQUAKE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 199,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 3
+   },
+   null
+  ]
+ },
+ "NATURE_POWER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "LICK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 211,
+    "kind": "effect_sprite",
+    "effect_file": 98,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "FLAIL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TAIL_WHIP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "SELFDESTRUCT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "STUN_SPORE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 36,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   {
+    "effect_entry": 257,
+    "kind": "effect_sprite",
+    "effect_file": 93,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BIND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 126,
+    "kind": "effect_sprite",
+    "effect_file": 85,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SHADOW_PUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SHADOW_BALL": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 256,
+    "kind": "effect_sprite",
+    "effect_file": 92,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "CHARGE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 421,
+    "kind": "effect_sprite",
+    "effect_file": 42,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "THUNDERBOLT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 236,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "MIST": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 210,
+    "kind": "effect_sprite",
+    "effect_file": 97,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "FISSURE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 237,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "EXTREMESPEED": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "EXTRASENSORY": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SAFEGUARD": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 238,
+    "kind": "effect_sprite",
+    "effect_file": 95,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "ABSORB": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 128,
+    "kind": "effect_sprite",
+    "effect_file": 23,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SKY_UPPERCUT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 213,
+    "kind": "effect_sprite",
+    "effect_file": 111,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SKILL_SWAP": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "SKETCH": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 214,
+    "kind": "effect_sprite",
+    "effect_file": 112,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   null
+  ]
+ },
+ "HEADBUTT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "DOUBLE_EDGE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SANDSTORM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SAND_ATTACK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   {
+    "effect_entry": 215,
+    "kind": "effect_sprite",
+    "effect_file": 114,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "SAND_TOMB": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 241,
+    "kind": "effect_sprite",
+    "effect_file": 114,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "SPARK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 114,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 114,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "SWIFT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 212,
+    "kind": "effect_sprite",
+    "effect_file": 107,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "KINESIS": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 262,
+    "kind": "effect_sprite",
+    "effect_file": 115,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SMOG": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 242,
+    "kind": "effect_sprite",
+    "effect_file": 103,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "GROWTH": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   null,
+   null
+  ]
+ },
+ "SACRED_FIRE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 243,
+    "kind": "effect_sprite",
+    "effect_file": 90,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 244,
+    "kind": "effect_sprite",
+    "effect_file": 90,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "SHEER_COLD": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 245,
+    "kind": "effect_sprite",
+    "effect_file": 55,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SOLARBEAM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 221,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 27
+   },
+   null,
+   null
+  ]
+ },
+ "SONICBOOM": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 188,
+    "kind": "effect_sprite",
+    "effect_file": 106,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "FLY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TACKLE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "EXPLOSION": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "DIVE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 2,
+    "kind": "effect_sprite",
+    "effect_file": 21,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "FIRE_BLAST": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 264,
+    "kind": "effect_sprite",
+    "effect_file": 30,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 263,
+    "kind": "effect_sprite",
+    "effect_file": 30,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "WATERFALL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 265,
+    "kind": "effect_sprite",
+    "effect_file": 111,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "MUDDY_WATER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 203,
+    "kind": "effect_sprite",
+    "effect_file": 16,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "STOCKPILE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 267,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 29
+   },
+   null,
+   null
+  ]
+ },
+ "SLAM": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "TWISTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   null,
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 310,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 33
+   },
+   null
+  ]
+ },
+ "BULLET_SEED": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 190,
+    "kind": "effect_sprite",
+    "effect_file": 118,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "TWINEEDLE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 216,
+    "kind": "effect_sprite",
+    "effect_file": 136,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "SOFTBOILED": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 297,
+    "kind": "effect_sprite",
+    "effect_file": 116,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "EGG_BOMB": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 295,
+    "kind": "effect_sprite",
+    "effect_file": 5,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 294,
+    "kind": "effect_sprite",
+    "effect_file": 5,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "FAINT_ATTACK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 284,
+    "kind": "effect_sprite",
+    "effect_file": 17,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "BARRAGE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   {
+    "effect_entry": 189,
+    "kind": "effect_sprite",
+    "effect_file": 117,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "MINIMIZE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   null
+  ]
+ },
+ "SEISMIC_TOSS": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 237,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SUPERSONIC": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 225,
+    "kind": "effect_sprite",
+    "effect_file": 81,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "TAUNT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 175,
+    "kind": "effect_sprite",
+    "effect_file": 15,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 176,
+    "kind": "effect_sprite",
+    "effect_file": 15,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "MOONLIGHT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 272,
+    "kind": "effect_sprite",
+    "effect_file": 125,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 273,
+    "kind": "effect_sprite",
+    "effect_file": 125,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "PECK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "ARM_THRUST": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 311,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 9
+   },
+   null
+  ]
+ },
+ "HORN_ATTACK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 191,
+    "kind": "effect_sprite",
+    "effect_file": 126,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "HORN_DRILL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 191,
+    "kind": "effect_sprite",
+    "effect_file": 126,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "WING_ATTACK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 83,
+    "kind": "effect_sprite",
+    "effect_file": 135,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "AERIAL_ACE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 32,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "ICICLE_SPEAR": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 192,
+    "kind": "effect_sprite",
+    "effect_file": 127,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "SWORDS_DANCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 193,
+    "kind": "effect_sprite",
+    "effect_file": 130,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "VINE_WHIP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 194,
+    "kind": "effect_sprite",
+    "effect_file": 131,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "CONVERSION": {
+  "body_anim": 31,
+  "body_anim_name": "Species anim 31",
+  "effects": [
+   null,
+   {
+    "effect_entry": 286,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 31
+   },
+   null,
+   null
+  ]
+ },
+ "CONVERSION_2": {
+  "body_anim": 12,
+  "body_anim_name": "Rotate",
+  "effects": [
+   null,
+   {
+    "effect_entry": 285,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 12
+   },
+   null,
+   null
+  ]
+ },
+ "HELPING_HAND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 312,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 5
+   },
+   null
+  ]
+ },
+ "IRON_DEFENSE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 313,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "TELEPORT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "THUNDERSHOCK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 236,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "SHOCK_WAVE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 177,
+    "kind": "effect_sprite",
+    "effect_file": 18,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 178,
+    "kind": "effect_sprite",
+    "effect_file": 18,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "QUICK_ATTACK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SWEET_KISS": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 298,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "THUNDER_WAVE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 236,
+    "kind": "effect_sprite",
+    "effect_file": 119,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "ZAP_CANNON": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 179,
+    "kind": "effect_sprite",
+    "effect_file": 19,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "BLOCK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 154,
+    "kind": "effect_sprite",
+    "effect_file": 123,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "HOWL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 274,
+    "kind": "effect_sprite",
+    "effect_file": 121,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "POISON_GAS": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 242,
+    "kind": "effect_sprite",
+    "effect_file": 103,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "TOXIC": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "POISON_FANG": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 49,
+    "kind": "effect_sprite",
+    "effect_file": 26,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "POISONPOWDER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 258,
+    "kind": "effect_sprite",
+    "effect_file": 93,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "POISON_STING": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 217,
+    "kind": "effect_sprite",
+    "effect_file": 136,
+    "anim_in_file": 16
+   }
+  ]
+ },
+ "SPIKE_CANNON": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 218,
+    "kind": "effect_sprite",
+    "effect_file": 136,
+    "anim_in_file": 8
+   }
+  ]
+ },
+ "ACID_ARMOR": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TAKE_DOWN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "JUMP_KICK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 153,
+    "kind": "effect_sprite",
+    "effect_file": 120,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BOUNCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 233,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null,
+   null
+  ]
+ },
+ "HI_JUMP_KICK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 153,
+    "kind": "effect_sprite",
+    "effect_file": 120,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "TRI_ATTACK": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 315,
+    "kind": "effect_sprite",
+    "effect_file": 124,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 155,
+    "kind": "effect_sprite",
+    "effect_file": 124,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "DRAGON_CLAW": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 316,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 281,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "TRICK": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "TRIPLE_KICK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 153,
+    "kind": "effect_sprite",
+    "effect_file": 120,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "DRILL_PECK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 322,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 35
+   },
+   null
+  ]
+ },
+ "MUD_SPORT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 180,
+    "kind": "effect_sprite",
+    "effect_file": 22,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 181,
+    "kind": "effect_sprite",
+    "effect_file": 22,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "MUD_SLAP": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 182,
+    "kind": "effect_sprite",
+    "effect_file": 22,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "THIEF": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 284,
+    "kind": "effect_sprite",
+    "effect_file": 17,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "AMNESIA": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 324,
+    "kind": "effect_sprite",
+    "effect_file": 59,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "NIGHT_SHADE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 330,
+    "kind": "effect_sprite",
+    "effect_file": 75,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "GROWL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 274,
+    "kind": "effect_sprite",
+    "effect_file": 121,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SLACK_OFF": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SURF": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 204,
+    "kind": "effect_sprite",
+    "effect_file": 16,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "ROLE_PLAY": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "NEEDLE_ARM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 183,
+    "kind": "effect_sprite",
+    "effect_file": 76,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "DOUBLE_KICK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 153,
+    "kind": "effect_sprite",
+    "effect_file": 120,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SUNNY_DAY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "LEER": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 287,
+    "kind": "effect_sprite",
+    "effect_file": 113,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "WISH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 151,
+    "kind": "effect_sprite",
+    "effect_file": 77,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "FAKE_OUT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "SLEEP_TALK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "PAY_DAY": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "ASSIST": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 185,
+    "kind": "effect_sprite",
+    "effect_file": 79,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "HEAT_WAVE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 332,
+    "kind": "effect_sprite_alt",
+    "effect_file": 3,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SLEEP_POWDER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 259,
+    "kind": "effect_sprite",
+    "effect_file": 93,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "REST": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 37,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "INGRAIN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 186,
+    "kind": "effect_sprite",
+    "effect_file": 80,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "CONFUSION": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "BODY_SLAM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SWALLOW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 152,
+    "kind": "effect_sprite",
+    "effect_file": 82,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "CURSE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "FRENZY_PLANT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 187,
+    "kind": "effect_sprite",
+    "effect_file": 80,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "HYDRO_CANNON": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 334,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 45
+   },
+   {
+    "effect_entry": 335,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "HYDRO_PUMP": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 334,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 45
+   },
+   {
+    "effect_entry": 336,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 8
+   }
+  ]
+ },
+ "HYPER_VOICE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 341,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 6
+   }
+  ]
+ },
+ "HYPER_BEAM": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 338,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 24
+   }
+  ]
+ },
+ "SUPERPOWER": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 145,
+    "kind": "effect_sprite",
+    "effect_file": 4,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "STEEL_WING": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 83,
+    "kind": "effect_sprite",
+    "effect_file": 135,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SPIT_UP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 146,
+    "kind": "effect_sprite",
+    "effect_file": 47,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "DYNAMICPUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 280,
+    "kind": "effect_sprite",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "GUILLOTINE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 148,
+    "kind": "effect_sprite",
+    "effect_file": 49,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "VICEGRIP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 156,
+    "kind": "effect_sprite",
+    "effect_file": 49,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "KNOCK_OFF": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 149,
+    "kind": "effect_sprite",
+    "effect_file": 50,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "POUND": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "RAZOR_LEAF": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 296,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 9
+   },
+   null,
+   null,
+   {
+    "effect_entry": 288,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "BATON_PASS": {
+  "body_anim": 2,
+  "body_anim_name": "Strike",
+  "effects": [
+   null,
+   {
+    "effect_entry": 42,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   {
+    "effect_entry": 42,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "PETAL_DANCE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 342,
+    "kind": "effect_sprite",
+    "effect_file": 33,
+    "anim_in_file": 3
+   },
+   null,
+   null
+  ]
+ },
+ "SPLASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 233,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null,
+   null
+  ]
+ },
+ "BUBBLEBEAM": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   {
+    "effect_entry": 339,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 32
+   }
+  ]
+ },
+ "DOOM_DESIRE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 147,
+    "kind": "effect_sprite",
+    "effect_file": 48,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BELLY_DRUM": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 343,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 4
+   },
+   null,
+   null
+  ]
+ },
+ "BARRIER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 313,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "LIGHT_SCREEN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 319,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SCRATCH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 138,
+    "kind": "effect_sprite",
+    "effect_file": 54,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "HYPER_FANG": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 344,
+    "kind": "effect_sprite",
+    "effect_file": 26,
+    "anim_in_file": 8
+   },
+   null
+  ]
+ },
+ "EMBER": {
+  "body_anim": 0,
+  "body_anim_name": "Walk",
+  "effects": [
+   null,
+   {
+    "effect_entry": 144,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 317,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 3
+   },
+   {
+    "effect_entry": 137,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "SECRET_POWER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 277,
+    "kind": "effect_sprite",
+    "effect_file": 76,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "DIZZY_PUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 345,
+    "kind": "effect_sprite",
+    "effect_file": 84,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BULK_UP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 300,
+    "kind": "effect_sprite",
+    "effect_file": 8,
+    "anim_in_file": 2
+   },
+   {
+    "effect_entry": 6,
+    "kind": "effect_sprite",
+    "effect_file": 8,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "IMPRISON": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 154,
+    "kind": "effect_sprite",
+    "effect_file": 123,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "FEATHERDANCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 134,
+    "kind": "effect_sprite",
+    "effect_file": 27,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "WHIRLWIND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 83,
+    "kind": "effect_sprite",
+    "effect_file": 135,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BEAT_UP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 50,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "BLIZZARD": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 292,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 32
+   },
+   {
+    "effect_entry": 291,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 10
+   }
+  ]
+ },
+ "STOMP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 275,
+    "kind": "effect_sprite",
+    "effect_file": 120,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "BLAST_BURN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 132,
+    "kind": "effect_sprite",
+    "effect_file": 9,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "FLASH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 135,
+    "kind": "effect_sprite",
+    "effect_file": 31,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "TEETER_DANCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 346,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 5
+   },
+   null,
+   null
+  ]
+ },
+ "CRUSH_CLAW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 281,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "BLAZE_KICK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 347,
+    "kind": "effect_sprite",
+    "effect_file": 29,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "PRESENT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 142,
+    "kind": "effect_sprite",
+    "effect_file": 86,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "ERUPTION": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 136,
+    "kind": "effect_sprite",
+    "effect_file": 34,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "SLUDGE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 279,
+    "kind": "effect_sprite",
+    "effect_file": 22,
+    "anim_in_file": 3
+   }
+  ]
+ },
+ "SLUDGE_BOMB": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 278,
+    "kind": "effect_sprite",
+    "effect_file": 52,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "GLARE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 208,
+    "kind": "effect_sprite",
+    "effect_file": 64,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "TRANSFORM": {
+  "body_anim": 2,
+  "body_anim_name": "Strike",
+  "effects": [
+   null,
+   {
+    "effect_entry": 41,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "POISON_TAIL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 39,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "ROAR": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 274,
+    "kind": "effect_sprite",
+    "effect_file": 121,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "BONE_RUSH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 143,
+    "kind": "effect_sprite",
+    "effect_file": 11,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 133,
+    "kind": "effect_sprite",
+    "effect_file": 11,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "CAMOUFLAGE": {
+  "body_anim": 31,
+  "body_anim_name": "Species anim 31",
+  "effects": [
+   null,
+   {
+    "effect_entry": 286,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 31
+   },
+   null,
+   null
+  ]
+ },
+ "COVET": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 15,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TAIL_GLOW": {
+  "body_anim": 7,
+  "body_anim_name": "Idle",
+  "effects": [
+   null,
+   {
+    "effect_entry": 289,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 7
+   },
+   null,
+   null
+  ]
+ },
+ "BONE_CLUB": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "BONEMERANG": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 143,
+    "kind": "effect_sprite",
+    "effect_file": 11,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 133,
+    "kind": "effect_sprite",
+    "effect_file": 11,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "FIRE_SPIN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 316,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "FIRE_PUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 74,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 3
+   },
+   null
+  ]
+ },
+ "PERISH_SONG": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 348,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 6
+   },
+   null
+  ]
+ },
+ "WRAP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 126,
+    "kind": "effect_sprite",
+    "effect_file": 85,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SPIKES": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 290,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 9
+   },
+   null
+  ]
+ },
+ "MAGNITUDE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 230,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   {
+    "effect_entry": 199,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 3
+   },
+   null
+  ]
+ },
+ "MAGICAL_LEAF": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 301,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 10
+   },
+   null,
+   null,
+   {
+    "effect_entry": 302,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 11
+   }
+  ]
+ },
+ "MAGIC_COAT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 318,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "MUD_SHOT": {
+  "body_anim": 45,
+  "body_anim_name": "Species anim 45",
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 437,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 45
+   },
+   {
+    "effect_entry": 337,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 16
+   }
+  ]
+ },
+ "MACH_PUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 127,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 4
+   },
+   null
+  ]
+ },
+ "PROTECT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 140,
+    "kind": "effect_sprite",
+    "effect_file": 67,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "DEFENSE_CURL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 141,
+    "kind": "effect_sprite",
+    "effect_file": 68,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "ROLLING_KICK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 153,
+    "kind": "effect_sprite",
+    "effect_file": 120,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SUBSTITUTE": {
+  "body_anim": 2,
+  "body_anim_name": "Strike",
+  "effects": [
+   null,
+   {
+    "effect_entry": 33,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 2
+   },
+   null,
+   null
+  ]
+ },
+ "DETECT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 85,
+    "kind": "effect_sprite",
+    "effect_file": 113,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "PIN_MISSILE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 283,
+    "kind": "effect_sprite",
+    "effect_file": 136,
+    "anim_in_file": 24
+   }
+  ]
+ },
+ "WATER_SPORT": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 150,
+    "kind": "effect_sprite",
+    "effect_file": 73,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "WATER_GUN": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 334,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 45
+   },
+   {
+    "effect_entry": 333,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 48
+   }
+  ]
+ },
+ "MIST_BALL": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 210,
+    "kind": "effect_sprite",
+    "effect_file": 97,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 276,
+    "kind": "effect_sprite",
+    "effect_file": 97,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "WATER_PULSE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 303,
+    "kind": "effect_sprite",
+    "effect_file": 81,
+    "anim_in_file": 8
+   }
+  ]
+ },
+ "FURY_ATTACK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 191,
+    "kind": "effect_sprite",
+    "effect_file": 126,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "FURY_SWIPES": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 120,
+    "kind": "effect_sprite",
+    "effect_file": 70,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "DESTINY_BOND": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   {
+    "effect_entry": 121,
+    "kind": "effect_sprite",
+    "effect_file": 71,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "FALSE_SWIPE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 304,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 7
+   },
+   null
+  ]
+ },
+ "FORESIGHT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "MIRROR_COAT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 320,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "FUTURE_SIGHT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "MILK_DRINK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 349,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 7
+   },
+   null,
+   null
+  ]
+ },
+ "CALM_MIND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 305,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 4
+   },
+   null,
+   null
+  ]
+ },
+ "MEGA_DRAIN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 128,
+    "kind": "effect_sprite",
+    "effect_file": 23,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "MEGA_KICK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 306,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 8
+   },
+   null
+  ]
+ },
+ "MEGA_PUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 131,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 5
+   },
+   null
+  ]
+ },
+ "MEGAHORN": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 119,
+    "kind": "effect_sprite",
+    "effect_file": 69,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "HIDDEN_POWER": {
+  "body_anim": 24,
+  "body_anim_name": "Species anim 24",
+  "effects": [
+   {
+    "effect_entry": 198,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 24
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "METAL_CLAW": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 281,
+    "kind": "effect_sprite",
+    "effect_file": 53,
+    "anim_in_file": 2
+   },
+   null
+  ]
+ },
+ "ATTRACT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 15,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 299,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 3
+   }
+  ]
+ },
+ "MIMIC": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "FRUSTRATION": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 176,
+    "kind": "effect_sprite",
+    "effect_file": 15,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "LEECH_SEED": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 270,
+    "kind": "effect_sprite",
+    "effect_file": 137,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 269,
+    "kind": "effect_sprite",
+    "effect_file": 137,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "METRONOME": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 207,
+    "kind": "effect_sprite",
+    "effect_file": 63,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "DREAM_EATER": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 128,
+    "kind": "effect_sprite",
+    "effect_file": 23,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "ACID": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 350,
+    "kind": "effect_sprite",
+    "effect_file": 102,
+    "anim_in_file": 5
+   }
+  ]
+ },
+ "MEDITATE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "SNATCH": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "LUSTER_PURGE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 222,
+    "kind": "effect_sprite_alt",
+    "effect_file": 5,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 351,
+    "kind": "effect_sprite",
+    "effect_file": 87,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "LEAF_BLADE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 139,
+    "kind": "effect_sprite",
+    "effect_file": 66,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "RECYCLE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   null
+  ]
+ },
+ "REFLECT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 321,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "REFRESH": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "REVENGE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 123,
+    "kind": "effect_sprite",
+    "effect_file": 88,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "DRAGON_RAGE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 74,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 3
+   },
+   {
+    "effect_entry": 79,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 5
+   }
+  ]
+ },
+ "DRAGONBREATH": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 74,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 3
+   },
+   {
+    "effect_entry": 79,
+    "kind": "effect_sprite",
+    "effect_file": 28,
+    "anim_in_file": 5
+   }
+  ]
+ },
+ "DRAGON_DANCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 124,
+    "kind": "effect_sprite",
+    "effect_file": 89,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "ICE_PUNCH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 24,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 5
+   },
+   null
+  ]
+ },
+ "ICE_BEAM": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 292,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 32
+   },
+   {
+    "effect_entry": 291,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 10
+   }
+  ]
+ },
+ "FURY_CUTTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 32,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "COMET_PUNCH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   {
+    "effect_entry": 127,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 4
+   },
+   null
+  ]
+ },
+ "SKULL_BASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "LOCK_ON": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 81,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "ROCK_BLAST": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 352,
+    "kind": "effect_sprite",
+    "effect_file": 110,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 353,
+    "kind": "effect_sprite",
+    "effect_file": 110,
+    "anim_in_file": 1
+   }
+  ]
+ },
+ "COTTON_SPORE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 125,
+    "kind": "effect_sprite",
+    "effect_file": 133,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "STRUGGLE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "AEROBLAST": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   {
+    "effect_entry": 340,
+    "kind": "effect_sprite",
+    "effect_file": 13,
+    "anim_in_file": 40
+   }
+  ]
+ },
+ "VOLT_TACKLE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   {
+    "effect_entry": 177,
+    "kind": "effect_sprite",
+    "effect_file": 18,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 202,
+    "kind": "effect_sprite",
+    "effect_file": 18,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "REGULAR_ATTACK": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "IS_WATCHING": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "BIDE_2": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "DOLLAR_1": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "DOLLAR_2": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "WIDE_SLASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 354,
+    "kind": "effect_sprite",
+    "effect_file": 100,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "EXCAVATE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 415,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "SPIN_SLASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 355,
+    "kind": "effect_sprite",
+    "effect_file": 100,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "SEE_TRAP": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 356,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "TAKEAWAY": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "REBOUND": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 318,
+    "kind": "effect_sprite",
+    "effect_file": 6,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "BLOOP_SLASH": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SWITCHER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 357,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "BLOWBACK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 357,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "WARP": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TRANSFER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 358,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "SLOW_DOWN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 80,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SPEED_BOOST": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 359,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "SEARCHLIGHT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 351,
+    "kind": "effect_sprite",
+    "effect_file": 87,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "PETRIFY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 360,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "STAY_AWAY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 358,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "POUNCE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TRAWL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 360,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "CLEANSE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 204,
+    "kind": "effect_sprite",
+    "effect_file": 16,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "OBSERVER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 357,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "DECOY_MAKER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 358,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "SIESTA": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 12,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "TOTTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 346,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 5
+   },
+   null,
+   null
+  ]
+ },
+ "TWO_EDGE": {
+  "body_anim": 18,
+  "body_anim_name": "Species anim 18",
+  "effects": [
+   null,
+   {
+    "effect_entry": 47,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 48,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 20
+   },
+   null
+  ]
+ },
+ "NO_MOVE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 154,
+    "kind": "effect_sprite",
+    "effect_file": 123,
+    "anim_in_file": 0
+   },
+   null
+  ]
+ },
+ "ESCAPE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SCAN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 80,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "POWER_EARS": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 305,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 4
+   },
+   null,
+   null
+  ]
+ },
+ "DROUGHT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 361,
+    "kind": "effect_sprite",
+    "effect_file": 24,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "TRAP_BUSTER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 199,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 3
+   },
+   null,
+   null
+  ]
+ },
+ "WILD_CALL": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 362,
+    "kind": "effect_sprite",
+    "effect_file": 7,
+    "anim_in_file": 8
+   },
+   null,
+   null
+  ]
+ },
+ "INVISIFY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 363,
+    "kind": "effect_sprite",
+    "effect_file": 87,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "ONE_SHOT": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 63,
+    "kind": "effect_sprite",
+    "effect_file": 46,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "HP_GAUGE": {
+  "body_anim": 17,
+  "body_anim_name": "Species anim 17",
+  "effects": [
+   null,
+   {
+    "effect_entry": 21,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 17
+   },
+   null,
+   null
+  ]
+ },
+ "VACUUM_CUT": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 368,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 12
+   },
+   null,
+   null
+  ]
+ },
+ "REVIVER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SHOCKER": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 208,
+    "kind": "effect_sprite",
+    "effect_file": 64,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 429,
+    "kind": "effect_sprite",
+    "effect_file": 64,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "ECHO": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "FAMISH": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 305,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 4
+   },
+   null,
+   null
+  ]
+ },
+ "ONE_ROOM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 351,
+    "kind": "effect_sprite",
+    "effect_file": 87,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 230,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null
+  ]
+ },
+ "FILL_IN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "TRAPPER": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 359,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 290,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 9
+   },
+   null
+  ]
+ },
+ "POSSESS": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "ITEMIZE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 4,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 18
+   },
+   {
+    "effect_entry": 357,
+    "kind": "effect_sprite",
+    "effect_file": 51,
+    "anim_in_file": 4
+   }
+  ]
+ },
+ "MD1": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "PROJECTILE": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "HURL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "MOBILE": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 363,
+    "kind": "effect_sprite",
+    "effect_file": 87,
+    "anim_in_file": 1
+   },
+   null,
+   null
+  ]
+ },
+ "ITEM_TOSS": {
+  "body_anim": 28,
+  "body_anim_name": "Species anim 28",
+  "effects": [
+   {
+    "effect_entry": 235,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SEE_STAIRS": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 80,
+    "kind": "effect_sprite",
+    "effect_file": 20,
+    "anim_in_file": 0
+   },
+   null,
+   null
+  ]
+ },
+ "LONG_TOSS": {
+  "body_anim": 28,
+  "body_anim_name": "Species anim 28",
+  "effects": [
+   {
+    "effect_entry": 235,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "MD1_2": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "PIERCE": {
+  "body_anim": 28,
+  "body_anim_name": "Species anim 28",
+  "effects": [
+   {
+    "effect_entry": 235,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 28
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "UNK_19D": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "WEATHER_BALL_SUNNY": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 57,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 3
+   },
+   {
+    "effect_entry": 56,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "WEATHER_BALL_HAIL": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 24,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 5
+   },
+   {
+    "effect_entry": 56,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "WEATHER_BALL_RAIN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 58,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 1
+   },
+   {
+    "effect_entry": 56,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "WEATHER_BALL_SANDSTORM": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 415,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 56,
+    "kind": "effect_sprite",
+    "effect_file": 109,
+    "anim_in_file": 2
+   }
+  ]
+ },
+ "DIG_2ND_TURN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 3,
+    "kind": "effect_sprite",
+    "effect_file": 2,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "RAZOR_WIND_2ND_TURN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 86,
+    "kind": "effect_sprite",
+    "effect_file": 108,
+    "anim_in_file": 6
+   }
+  ]
+ },
+ "FOCUS_PUNCH_2ND_TURN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   {
+    "effect_entry": 131,
+    "kind": "effect_sprite",
+    "effect_file": 99,
+    "anim_in_file": 5
+   },
+   null
+  ]
+ },
+ "SKY_ATTACK_2ND_TURN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   {
+    "effect_entry": 250,
+    "kind": "effect_sprite",
+    "effect_file": 45,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "SOLARBEAM_2ND_TURN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 247,
+    "kind": "effect_sprite",
+    "effect_file": 105,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   {
+    "effect_entry": 246,
+    "kind": "effect_sprite",
+    "effect_file": 105,
+    "anim_in_file": 0
+   }
+  ]
+ },
+ "FLY_2ND_TURN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "DIVE_2ND_TURN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   {
+    "effect_entry": 2,
+    "kind": "effect_sprite",
+    "effect_file": 21,
+    "anim_in_file": 0
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "BOUNCE_2ND_TURN": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "SKULL_BASH_2ND_TURN": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "CURSE_GHOST": {
+  "body_anim": null,
+  "body_anim_name": null,
+  "effects": [
+   null,
+   {
+    "effect_entry": 374,
+    "kind": "effect_sprite",
+    "effect_file": 83,
+    "anim_in_file": 0
+   },
+   {
+    "effect_entry": 375,
+    "kind": "effect_sprite",
+    "effect_file": 83,
+    "anim_in_file": 1
+   },
+   null
+  ]
+ },
+ "SNORE_ATTACK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ },
+ "SLEEP_TALK_ATTACK": {
+  "body_anim": 1,
+  "body_anim_name": "Attack",
+  "effects": [
+   {
+    "effect_entry": 22,
+    "kind": "monster_anim",
+    "effect_file": 0,
+    "anim_in_file": 1
+   },
+   null,
+   null,
+   null
+  ]
+ }
+}

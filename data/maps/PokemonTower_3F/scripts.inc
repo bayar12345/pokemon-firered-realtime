@@ -1,0 +1,20 @@
+PokemonTower_3F_MapScripts::
+	.byte 0
+
+PokemonTower_3F_EventScript_Patricia::
+RtScaledBattle_0097::
+	trainerbattle_single TRAINER_CHANNELER_PATRICIA, PokemonTower_3F_Text_PatriciaIntro, PokemonTower_3F_Text_PatriciaDefeat
+	msgbox PokemonTower_3F_Text_PatriciaPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+PokemonTower_3F_EventScript_Carly::
+RtScaledBattle_0098::
+	trainerbattle_single TRAINER_CHANNELER_CARLY, PokemonTower_3F_Text_CarlyIntro, PokemonTower_3F_Text_CarlyDefeat
+	msgbox PokemonTower_3F_Text_CarlyPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+PokemonTower_3F_EventScript_Hope::
+RtScaledBattle_0099::
+	trainerbattle_single TRAINER_CHANNELER_HOPE, PokemonTower_3F_Text_HopeIntro, PokemonTower_3F_Text_HopeDefeat
+	msgbox PokemonTower_3F_Text_HopePostBattle, MSGBOX_AUTOCLOSE
+	end

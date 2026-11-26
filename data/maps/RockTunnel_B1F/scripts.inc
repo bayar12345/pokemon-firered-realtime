@@ -1,0 +1,50 @@
+RockTunnel_B1F_MapScripts::
+	.byte 0
+
+RockTunnel_B1F_EventScript_Sofia::
+RtScaledBattle_0132::
+	trainerbattle_single TRAINER_PICNICKER_SOFIA, RockTunnel_B1F_Text_SofiaIntro, RockTunnel_B1F_Text_SofiaDefeat
+	msgbox RockTunnel_B1F_Text_SofiaPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Martha::
+RtScaledBattle_0133::
+	trainerbattle_single TRAINER_PICNICKER_MARTHA, RockTunnel_B1F_Text_MarthaIntro, RockTunnel_B1F_Text_MarthaDefeat
+	msgbox RockTunnel_B1F_Text_MarthaPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Dudley::
+RtScaledBattle_0134::
+	trainerbattle_single TRAINER_HIKER_DUDLEY, RockTunnel_B1F_Text_DudleyIntro, RockTunnel_B1F_Text_DudleyDefeat
+	msgbox RockTunnel_B1F_Text_DudleyPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Allen::
+RtScaledBattle_0135::
+	trainerbattle_single TRAINER_HIKER_ALLEN, RockTunnel_B1F_Text_AllenIntro, RockTunnel_B1F_Text_AllenDefeat
+	msgbox RockTunnel_B1F_Text_AllenPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Eric::
+RtScaledBattle_0136::
+	trainerbattle_single TRAINER_HIKER_ERIC, RockTunnel_B1F_Text_EricIntro, RockTunnel_B1F_Text_EricDefeat
+	msgbox RockTunnel_B1F_Text_EricPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Cooper::
+RtScaledBattle_0137::
+	trainerbattle_single TRAINER_POKEMANIAC_COOPER, RockTunnel_B1F_Text_CooperIntro, RockTunnel_B1F_Text_CooperDefeat
+	msgbox RockTunnel_B1F_Text_CooperPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Steve::
+RtScaledBattle_0138::
+	trainerbattle_single TRAINER_POKEMANIAC_STEVE, RockTunnel_B1F_Text_SteveIntro, RockTunnel_B1F_Text_SteveDefeat
+	msgbox RockTunnel_B1F_Text_StevePostBattle, MSGBOX_AUTOCLOSE
+	end
+
+RockTunnel_B1F_EventScript_Winston::
+RtScaledBattle_0139::
+	trainerbattle_single TRAINER_POKEMANIAC_WINSTON, RockTunnel_B1F_Text_WinstonIntro, RockTunnel_B1F_Text_WinstonDefeat
+	msgbox RockTunnel_B1F_Text_WinstonPostBattle, MSGBOX_AUTOCLOSE
+	end
